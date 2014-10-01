@@ -1,0 +1,21 @@
+---
+layout: post
+title:  "Bloggin"
+date:   2014-09-30 22:10:40
+categories: jekyll update
+---
+Let me introduce myself. I’m Richard. I’m a brand spankin’ new front end web development student at Atlanta’s The Iron Yard Academy. I’ve logged some time as a graphic designer, and now I’m making the leap to web development in a desperate attempt to build some cool stuff. Also, I’m really not sure how I feel about blogging.
+
+Don’t get me wrong: I love it when other folks write about their work, their experiences and expertise. I’ve done pretty well to keep myself on the reading end of this interaction for a while now. I can honestly say that I've gained a large part of my current understanding of how the web works not through digging around stack overflow for specific fixes and hacks, but through reading more of the big-picture conceptual articles from the likes of Web Design Weekly, and by simply filling my twitter feed with much smarter people than myself and reading every bit of knowledge they share. Reading this kind of stuff is, to me, the difference between understanding how a bit of code works and understanding why you would use it in the first place. Seems to me that you’d need to start with the latter. This sort of writing is essential for our field.
+
+It’s not blogging in general that I don’t get. I’ve benefitted greatly from others’ writing. What I haven’t been able to picture is myself coming up with the stuff.
+
+Until just recently, I simply felt that there were readers and there were writers. I was a reader. It’s not that I wasn’t a doer. I like to do. I’m just not an explainer. Hell, I’m trying to figure it out myself; how am I supposed to explain it to anyone else? I'd rather leave all of the explaining to computer science grads that seemed to have some grasp on the dark arts of the internet that I'll never be able to fathom.
+
+Part of it has been out of selfishness, naturally. I could go my whole life consuming the web and never give back an ounce of input. Would anybody care or notice? Probably not. It's not like anyone has asked me to contribute. I could read about the work of others and use what I learn in my own work for free. Why go to the trouble?
+
+John Saddington came and spoke to our class the other day, basically asserting that we need to be generating content on the web in order to win the internet. He made a pretty damn good argument for the benefits of open communication online, the ability to control our web presence and the content associated with our Googled names, and the opportunities that can materialize from others reading your stuff.
+
+I still don't want to do it.
+
+But, in the spirit of keeping an open mind and trying new things (which comes with quitting a perfectly good job and diving head-first into a foreign field of study), I'll give it a shot. I think I'll have to call it something other than "blogging" though. Will report back with a rename shortly.
