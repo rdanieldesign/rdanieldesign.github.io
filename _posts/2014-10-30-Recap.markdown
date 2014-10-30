@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "Slacker's Recap"
+date:   2014-10-30 08:36:00
+categories: jekyll update
+---
+
+I've been terrible about putting off writing blog posts for some time now, so I'm going to try to get back on track. This post will act as sort of a recap over the last few weeks, which have been extremely busy at the Iron Yard.
+
+I spend all of my time at the Atlanta Tech Village now. Throughout my experience here, even in the beginning, I spent huge chunks of time working here, be it attending lectures, lab time, or events. But as of late it's been taken to another level. I leave my house (my friend's house) by 7:30 AM every morning, and I'm rarely back before 10:00 PM. While it's been a little bit of a strain to spend so much time here, it's also been sort of freeing in that once I've given up the thought of doing anything else with my day, I can devote huge amounts of time to learning code and building stuff.
+
+That being said, I've made a couple of things recently that I feel obligated to show off. We had an over-the-weekend assignment to build some sort of turn-based game, and I decided to give a first-shooter with a trailer park theme a try. [Here](http://rdanieldesign.github.io/TurnGame/) it is. I was able to assign the targets to a randomized path on an interval with jQuery animation, which makes the game a little more interactive. I also got to play around a little bit with CSS sprites, which was a pretty neat technique to learn. Until recently I'd pretty much thought of absolute positioning as a cheap and unsustainable way of positioning things in the DOM, opting rather to embrace the natural flow of obects, but this project forced me to step outside of my comfort zone and learn that there are definitely plenty of use cases for position: absolute. One thing I'd love to try to add that I just ran out of time on is to add a limit to the ammunition for each weapon, so there's more of a reason to choose the pistol than just seeking more difficulty.
+
+I spent the last two days working with [Andrew El-Masry](https://github.com/elmasrya) on a nifty little [to-do app](http://elmasrya.github.io/toDoApp/). This project has been pretty awesome to collaborate on. The two of us got to experiment with CRUD methods using a Restful API, posting, altering, and deleting data from a server and having that data reflected in our app's interface. It needs a little work with the scrolling action on mobile, but otherwise I'm super proud of the way it turned out. Working with Andrew was great because we were both willing to work as long as it took to make sure all of our features were working correctly. I feel like collaborating with someone who doesn't place as much value in the product as you do would be very frustrating, but luckily I haven't experienced this problem with anyone I've worked with so far at TIY.
