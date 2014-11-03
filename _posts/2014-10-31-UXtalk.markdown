@@ -1,0 +1,44 @@
+---
+layout: post
+title:  "Jared Caldwell on UX"
+date:   2014-11-03 08:14:00
+categories: jekyll update
+---
+
+Last week at the Iron Yard we had a guest speaker, [Jared Caldwell](https://twitter.com/jaredcaldwell), come in to try and explain to us what the heck it is that UX designers actually do. Before this moment, I had always assumed that they were the bridge between designers and developers, people who couldn't quite code, and couldn't quite design, but still wanted to work with the web. (I'm completely joking).
+
+Jared works for IBM, so I assume he knows what he's talking about. He effectively explained the entire process a UX designer undergoes with each project. Before I go into the details of his discussion, I'll lay out what he highlighted the most important takeaway:
+
+> "YOU ARE NOT THE USER."
+
+This seems like a fairly obvious statement, but sometimes as a developer I find myself relying almost entirely on my own opinion of how an app I'm working on should flow, rather than considering any relevant audience. It's very easy to get down in the weeds of simply making something work and forget about focusing on making it work well, not for you, but for users.
+
+UX has always been a bit of a mystery to me. I've heard vague explanations of it, and just assumed that it was more of an umbrella term used to describe the jobs of everyone in charge of user-related portions of a project. I went to school for design, and now have made a transition into web development, so it seems very odd to me that I have somehow never fully understood this role that seems to bridge the two.
+
+Jared, on the other hand, was not at all confused about the role. According to this fellow, <em>user experience designers create artifacts to lead users to a specific experience in a specific context.</em> So that clears that up.
+
+To create these "artifacts", there is a very specific path that UX designers follow. The order of thinking for such folks should be as follows:
+
+1. Define Users
+2. Define Context
+3. Needs Analysis / Task Analysis
+4. Function Allocation
+5. Information Architecture + System Layout
+6. Mockups + Prototypes
+7. Usability Testing
+8. Iterate
+9. Maintenance + Updates
+
+Rather than regurgitate the whole talk, I'll highlight a few points that I thought were particularly interesting.
+
+One major decision that UX designers have to make is function allocation. This means deciding what responsibilities are given to the user, which are abstracted away by the machine, and which are left to the environment. Function allocation will be vastly different for different audiences. For example, Instagram does a lot of the photo manipulation work for users by providing filters to choose from. Users are still left to take the picture (obviously) and select which filter they feel works best, but the heavy lifting if done by the app.
+
+Photoshop, however, is designed to give the users far more responisibility in photo-manipulation. Rather than provide a small set of established filters, Photoshop provides a ton of tools for the user to take on the responsibility of editing their own photos manually.
+
+Different audiences, different allocation of responsibilities.
+
+I thought the 'environment' part of function allocation was interesting. These are factors that are neither the responsibility of the user nor the machine, but rather outside forces that play a role in the experience. Jared's example was in the case of a kiosk at a ballpark, where the user may be influenced or informed by the jumbotron, announcer, or other outside stimulants but the interact directly with the kiosk itself in performing a task.
+
+One other thing I found interesting was the role of prototypes and mockups in the design process. A mockup is a visual representation of the app in progress, whereas a prototype is an interactive piece that helps explain the flow or navigation of performing a task in the app. The two are used together to get an early idea of how the ap will come together, and to pitch and explain ideas to clients. A mockup may start as a wireframe but has the potential to, and usually does, evolve into finalized production graphics. However, it's hit or miss as to whether prototypes turn into production code. These may be used in the early phases and then tossed aside entirely, or could be built upon to make the final product. This seems to depend on the tools and methods used for prototyping, and whether these tools have the potential to generate code worthy of seeing the light of day.
+
+I could go on and on and start talking about how the hamburger icons makes me feel, but I'll cut it short here. Big thanks to Jared Caldwell for coming out and taking the time to explain this complex process.
